@@ -138,6 +138,6 @@ base64 的原理就是把每 6bit 的数据, 按 64 个字符的字典生成一�
 
 END.
 
-[img-chicken-brother]: ../../assets/blog/chicken-brother.png
-[img-pretty-girl]: ../../assets/blog/pretty-girl.png
-[img-hit-face]: ../../assets/blog/hit-face.gif
+[img-chicken-brother]: https://blog-1255878920.cos.ap-nanjing.myqcloud.com/memes/chicken-brother.png
+[img-pretty-girl]: https://blog-1255878920.cos.ap-nanjing.myqcloud.com/memes//pretty-girl.png
+[img-hit-face]: https://blog-1255878920.cos.ap-nanjing.myqcloud.com/memes//hit-face.gif
