@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	title: "icicleling Blog",
 	url: "https://blog.icicleling.com/",
 	language: "zh-cn",
@@ -6,6 +6,6 @@ module.exports = {
 	author: {
 		name: "icicle",
 		email: "",
-		url: "https://blog.icicleling.com/about-me/"
-	}
-}
+		url: "https://blog.icicleling.com/about-me/",
+	},
+};
