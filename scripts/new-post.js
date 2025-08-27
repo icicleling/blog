@@ -26,7 +26,7 @@ const file_content = `\
 title: ${args_title}
 date: ${date.toFormat("yyyy-LL-dd hh:mm:ss")}
 tags:
-  - unknown
+  - blog
 ---
 
 `;
