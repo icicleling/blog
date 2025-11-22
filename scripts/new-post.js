@@ -24,7 +24,7 @@ const file_path = path.resolve(
 const file_content = `\
 ---
 title: ${args_title}
-date: ${date.toFormat("yyyy-LL-dd hh:mm:ss")}
+date: ${date.toFormat("yyyy-LL-dd HH:mm:ss")}
 tags:
   - blog
 ---
